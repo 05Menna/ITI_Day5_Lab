@@ -1,4 +1,4 @@
-# DeepLearning_NN.ipynb
+# DL
 
 Overview
 --------
@@ -20,7 +20,7 @@ Files location
 
 -----------------------------------------------------------------
 
-# cnn.ipynb
+# CNN
 
 Overview
 --------
